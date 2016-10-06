@@ -13,7 +13,6 @@
 *.sdf
 *.ipch
 *.log
-*.db
 
 #My configurations  to ignore
 *.ini
