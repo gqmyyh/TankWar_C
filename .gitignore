@@ -1,0 +1,19 @@
+# Windows file to ignore
+*.db
+
+# vs2015 program filetype to ignore
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.pch
+*.res
+*.ilk
+*.sdf
+*.ipch
+*.log
+*.db
+
+#My configurations  to ignore
+*.ini
